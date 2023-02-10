@@ -18,3 +18,9 @@ Como testar:
   2. Entre na pasta criada do projeto pelo cmd e instale as dependências com: ```yarn```
   3. Rode o projeto com ```yarn dev```
   4. Coloque a seguinte URL: ```http://localhost:3000/middleware/users```
+
+
+Endpoints:
+ * /middleware/users 
+ * middleware/products
+ * middleware/cart/:id/:productsId, exemplo: middleware/cart/1/[1,2,3]
