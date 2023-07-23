@@ -2,6 +2,8 @@
 
 Projeto de API de Orçamento
 
+Esse projeto utiliza uma API externa disponibilizada pelo responsável do desafio
+
 Features:
   * Buscar todos os usuários
   * Buscar todos os produtos
